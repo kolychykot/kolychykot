@@ -1,5 +1,5 @@
 ## About me:
-- 👋 Hi, I’m Kuznetcova Irina (aka [kolychykot](https://github.com/kolychykot))
+- 👋 Hi, I’m Irina Kuznetcova (aka [kolychykot](https://github.com/kolychykot))
 
 - ⭐ Junior Data Analyst
 
